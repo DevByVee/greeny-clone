@@ -34,7 +34,7 @@ To get started with the Greeny Clone, follow these simple steps:
 ## License
 Currently, there is no specific license for this project.
 
-## Contributing
+## Contribution
 We love contributions! If you have ideas for improvements or want to report issues, feel free to submit a pull request or open an issue.
 
 ## Acknowledgments
